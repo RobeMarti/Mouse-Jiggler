@@ -1,0 +1,30 @@
+## Ignora file di build e cartelle temporanee
+bin/
+obj/
+.vs/
+*.user
+
+## Ignora file di pubblicazione
+publish/
+*.pubxml.user
+Properties/PublishProfiles/
+
+## Ignora file di cache di Visual Studio
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Ignora file temporanei di Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Ignora file specifici del tuo OneDrive
+*OneDrive*
