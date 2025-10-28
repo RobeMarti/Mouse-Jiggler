@@ -27,9 +27,9 @@ Puoi:
 
 ## 💾 Installazione
 
-1. Clona o scarica il repository:
+1. Clona il repository o scarica il software dalla release:
    ```bash
-   git clone https://github.com/RobeMarti/MouseJiggler
+   git clone https://github.com/RobeMarti/Mouse-Jiggler
    ```
 2. Entra nella cartella del progetto:
    ```bash
