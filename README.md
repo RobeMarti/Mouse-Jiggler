@@ -57,19 +57,3 @@ Puoi usarlo, modificarlo e ridistribuirlo liberamente, a patto di mantenere i cr
 Consulta il testo completo della licenza nel LICENSE file.
 
 ---
-
-## 👨‍💻 Autore
-
-Creato con ❤️ da **RobeMarti // IceFox**
-
-Se ti è utile, lascia una ⭐ su GitHub!
-
----
-
-## ⚠️ Disclaimer
-
-Questo software è fornito “così com’è”, **senza garanzie di alcun tipo**.  
-L’autore non è responsabile per eventuali danni, perdite di dati o comportamenti anomali derivanti dall’uso di Jiggy.  
-Usalo a tuo rischio e pericolo, esclusivamente per scopi leciti.
-
----
