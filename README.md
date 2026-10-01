@@ -1,7 +1,7 @@
 # 🖱️ Jiggy
 
 **Jiggy** è una piccola applicazione gratuita e open source che muove automaticamente il cursore del mouse ogni **20 secondi**.  
-È pensata per mantenere il computer "attivo" durante periodi di inattività, riunioni online o lunghe pause, evitando lo standby o il blocco dello schermo.
+È pensata per mantenere il computer "attivo" durante periodi di inattività o lunghe pause, evitando lo standby o il blocco dello schermo.
 
 ---
 
